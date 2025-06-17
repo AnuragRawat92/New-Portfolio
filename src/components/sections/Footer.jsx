@@ -41,7 +41,7 @@ export const Footer = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex flex-col items-center">
           <h3 className="text-xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent">
-            Let's Connect
+            {"Let's Connect"}
           </h3>
           
           <div className="flex justify-center space-x-8 md:space-x-12">
